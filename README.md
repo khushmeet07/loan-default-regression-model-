@@ -315,3 +315,8 @@ This project demonstrates an end-to-end machine learning workflow:
 This project is created for educational and portfolio purposes.
 
 The dataset is synthetic, and the predictions should not be used to approve, reject, price, or otherwise make decisions about real loan applications.
+
+Author
+Khushmeet Kaur
+
+Machine Learning | AI | Business Analytics
